@@ -17,22 +17,22 @@ layout: default
 
 ```js
 python:
->print('hello,world')
+    print('hello,world')
 
 c++:
->#include <bits/stdc++.h>
->using namespace std;
->int main()
->{
->  cout<<"hello,world";
->}
+    #include <bits/stdc++.h>
+    using namespace std;
+    int main()
+    {
+      cout<<"hello,world";
+    }
 
 c:
->#include <stdio.h>
->int main()
->{
->  printf("hello,world");
->}
+    #include <stdio.h>
+    int main()
+    {
+      printf("hello,world");
+    }
 ```
 
 #### Header 4
