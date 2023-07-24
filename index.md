@@ -4,27 +4,22 @@ layout: default
 
 [Link to another page](./another-page.html).
     个人博客
->acmer学习网址：
->牛客:https://ac.nowcoder.com
->codeforces：https://codeforces.com
->Atcoder：https://atcoder.jp
+>acmer学习网址：<br>牛客:https://ac.nowcoder.com<br>codeforces：https://codeforces.com<br>Atcoder：https://atcoder.jp
 
 # Header 1
 
->介绍:个人博客--提瓦特第一深情
->简介:大学生一枚
->目前学习方向:Acm算法竞赛，python项目开发前后端
+>介绍:个人博客--提瓦特第一深情<br>简介:大学生一枚<br>目前学习方向:Acm算法竞赛，python项目开发前后端
+
 ## Header 2
-联系方式:
->QQ:3311816149
->email：3311816149@qq.com
->call：19962129838
+联系方式:<br>QQ:3311816149<br>email：3311816149@qq.com<br>call：19962129838
 
 ### Header 3
 
 ```js
+python:
 >print('hello,world')
 
+c++:
 >#include <bits/stdc++.h>
 >using namespace std;
 >int main()
@@ -32,6 +27,7 @@ layout: default
 >  cout<<"hello,world";
 >}
 
+c:
 >#include <stdio.h>
 >int main()
 >{
@@ -41,15 +37,11 @@ layout: default
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   This is an unordered list following a header..
 
 ##### Header 5
 
 1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -85,23 +77,6 @@ layout: default
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
