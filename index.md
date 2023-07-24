@@ -84,11 +84,11 @@ c:
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2003</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>China</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Red</dd>
 </dl>
 
 ```
