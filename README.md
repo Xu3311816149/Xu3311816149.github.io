@@ -5,3 +5,7 @@
 *原神and星穹铁道-->星穹铁道数据:https://hsr.gay
 
 
+You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
+
+![Thumbnail of Architect](thumbnail.png)
+
