@@ -5,7 +5,7 @@
 *原神and星穹铁道-->星穹铁道数据:https://hsr.gay
 
 
-我的个人博客:https://xu3311816149.github.io*
+我的个人博客:https://xu3311816149.github.io
 
 ![Thumbnail of Architect](thumbnail.png)
 
