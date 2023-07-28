@@ -30,7 +30,7 @@ data:
     
     UID：100244253
     
-    原神:......
+    原神数据:https://asagume.github.io/gencalc
     
     UID:248642567
     
