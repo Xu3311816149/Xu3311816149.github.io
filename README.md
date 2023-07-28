@@ -4,15 +4,24 @@
 
 *我的个人博客(https://xu3311816149.github.io/)
 
-原神and星穹铁道：
+name:xxy  age:18  country:China  cons:Sagittarius
+
+联系方式:
+
+    QQ:3311816149
+    
+    email:3311816149@qq.com
+    
+    call:19962129838
+    
+原神and星穹铁道:
 
     星穹铁道数据:https://hsr.gay
     
     UID：100244253
     
-    原神：......
+    原神:......
     
-    UID：248642567
-    
+    UID:248642567
     
 ![Thumbnail of Architect](thumbnail.png)
