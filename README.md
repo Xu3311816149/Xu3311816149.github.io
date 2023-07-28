@@ -4,7 +4,15 @@
 
 *我的个人博客(https://xu3311816149.github.io/)
 
-name:xxy  age:18  country:China  cons:Sagittarius
+data:
+
+    name:xxy
+    
+    age:18
+    
+    country:China
+    
+    cons:Sagittarius
 
 联系方式:
 
