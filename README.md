@@ -10,7 +10,7 @@ data:
 
     name:xxy
     
-    age:18
+    age:3
     
     country:China
     
